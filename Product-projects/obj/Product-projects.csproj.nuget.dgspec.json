@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52161105850\\Desktop\\Product-projects\\Product-projects.csproj": {}
+    "C:\\Users\\52161105850\\Desktop\\products-projects\\Product-projects\\Product-projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52161105850\\Desktop\\Product-projects\\Product-projects.csproj": {
+    "C:\\Users\\52161105850\\Desktop\\products-projects\\Product-projects\\Product-projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52161105850\\Desktop\\Product-projects\\Product-projects.csproj",
+        "projectUniqueName": "C:\\Users\\52161105850\\Desktop\\products-projects\\Product-projects\\Product-projects.csproj",
         "projectName": "Product-projects",
-        "projectPath": "C:\\Users\\52161105850\\Desktop\\Product-projects\\Product-projects.csproj",
+        "projectPath": "C:\\Users\\52161105850\\Desktop\\products-projects\\Product-projects\\Product-projects.csproj",
         "packagesPath": "C:\\Users\\52161105850\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52161105850\\Desktop\\Product-projects\\obj\\",
+        "outputPath": "C:\\Users\\52161105850\\Desktop\\products-projects\\Product-projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\52161105850\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,9 +64,25 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.7.0, )"
             }
           },
           "imports": [
